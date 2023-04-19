@@ -18,6 +18,7 @@ Mes dernières réalisation :
 - Détection de médicaments défectueux, Deep Learning
 - Analyse de la clientèle d'un concessionnaire et recommandation de véhicules, Machine Learning
 - Prédiction de l'affluence sur des lignes de bus, Machine Learning et Deep Learning
+- Prédiction des salaires à partir des descriptions de postes, NLP
 
 
 <h2 align="left" id="macropower-tech">Technologies favoris</h2>
