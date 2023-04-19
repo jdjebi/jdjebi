@@ -2,7 +2,7 @@
 <h3 align="left">Je suis un junior en Data Science / Data Engineering et en développement logiciel</h3>
 
 - :office: &nbsp;Je suis actuellement en Master of Science IA & Big Data à l'ESITA
-- :seedling: &nbsp;J'apprends actuellement Power Bi et je continue de me former de Data Science
+- :seedling: &nbsp;J'apprends actuellement Power Bi et je continue de me former en Data Science
 - :computer: &nbsp;J'ai un background de développeur Full Stack
 - :speech_balloon: &nbsp;Je suis joignable facilement sur **[LinkedIn]**
 
@@ -117,15 +117,71 @@ Vous trouverez mes réalisations en Data Science que j'ai ajouté sur Github [ic
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
+        <img src="https://logowik.com/content/uploads/images/hadoop7135.jpg" width="48" height="48" alt="Hadoop" />
       </a>
-      <br>Prometheus
+      <br>Hadoop
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
+        <img src="https://image.pngaaa.com/478/7261478-middle.png" width="48" height="48" alt="Spark" />
       </a>
-      <br>Thanos
+      <br>Spark
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-logo-png-transparent.png" width="48" height="48" alt="Spacy" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://www.pngplay.com/wp-content/uploads/5/Oracle-Logo-Transparent-Images.png" width="48" height="48" alt="Oracle" />
+      </a>
+      <br>Oracle
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://spark.apache.org/images/mlflow-logo.png" width="48" height="48" alt="Mlflow" />
+      </a>
+      <br>Mlflow
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://w7.pngwing.com/pngs/219/411/png-transparent-docker-logo-kubernetes-microservices-cloud-computing-dockers-logo-text-logo-cloud-computing-thumbnail.png" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" width="48" height="48" alt="AWS" />
+      </a>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" width="48" height="48" alt="Seaborn" />
+      </a>
+      <br>Seaborn
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://logowik.com/content/uploads/images/hadoop7135.jpg" width="48" height="48" alt="Hadoop" />
+      </a>
+      <br>Hadoop
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" width="48" height="48" alt="Power BI" />
+      </a>
+      <br>Power BI
     </td>
   </tr>
 </table>
