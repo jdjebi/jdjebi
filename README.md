@@ -4,11 +4,20 @@
 - :office: &nbsp;Je suis actuellement en Master of Science IA & Big Data à l'ESITA
 - :seedling: &nbsp;J'apprends actuellement Power Bi et je continue de me former en Data Science
 - :computer: &nbsp;J'ai un background de développeur Full Stack
-- :speech_balloon: &nbsp;Je suis joignable facilement sur **[LinkedIn]**
+- :speech_balloon: &nbsp;Je suis joignable facilement sur **[LinkedIn](https://www.linkedin.com/in/jean-marc-d-b83990105/)**
 
 <br>
 
+## Data Science
+
 Vous trouverez mes réalisations en Data Science que j'ai ajouté sur Github [ici](https://github.com/jdjebi/Datascience). Je travaille encore à en ajouter !
+
+Mes dernières réalisation :
+
+- Analyse et classification de critiques de films, NLP
+- Détection de médicaments défectueux, Deep Learning
+- Analyse de la clientèle d'un concessionnaire et recommandation de véhicules, Machine Learning
+- Prédiction de l'affluence sur des lignes de bus, Machine Learning et Deep Learning
 
 
 <h2 align="left" id="macropower-tech">Technologies favoris</h2>
