@@ -10,7 +10,7 @@
 
 ## Data Science
 
-Vous trouverez mes réalisations en Data Science que j'ai ajouté sur Github [ici](https://github.com/jdjebi/Datascience). Je travaille encore à en ajouter !
+Vous trouverez mes réalisations en Data Science que j'ai ajouté sur Github [ici](https://github.com/jdjebi/Datascience). Je travaille encore bien documenter mes Readme !
 
 Mes dernières réalisation :
 
