@@ -1,7 +1,7 @@
 <h1 align="left" id="macropower-title">:wave: Hello! Je suis Jean-Marc Dje Bi</h1>
 <h3 align="left">Je suis un junior en Data Science / Data Engineering et en développement logiciel</h3>
 
-- :office: &nbsp;Je suis actuellement en Master of Science IA & Big Data à l'ESITA
+- :office: &nbsp;Je suis actuellement en Master of Science IA & Big Data à l'ESTIA
 - :seedling: &nbsp;J'apprends actuellement Power Bi et je continue de me former en Data Science
 - :computer: &nbsp;J'ai un background de développeur Full Stack
 - :speech_balloon: &nbsp;Je suis joignable facilement sur **[LinkedIn](https://www.linkedin.com/in/jean-marc-d-b83990105/)**
