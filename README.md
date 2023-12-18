@@ -1,23 +1,28 @@
 <h1 align="left" id="macropower-title">:wave: Hello! Je suis Jean-Marc Dje Bi</h1>
-<h3 align="left">Je suis un junior en Data Science / Data Engineering et en développement logiciel</h3>
+<h3 align="left">Je suis Ingénieur en Machine Learning et aussi Ingénieur en Développement Logiciel</h3>
 
-- :office: &nbsp;Je suis actuellement en Master of Science IA & Big Data à l'ESTIA
-- :seedling: &nbsp;J'apprends actuellement Power Bi et je continue de me former en Data Science
-- :computer: &nbsp;J'ai un background de développeur Full Stack
+- :office: &nbsp;Je suis familier aux environements et outils Big Data
+- :seedling: &nbsp;Je suis passioné d'IA et de data, et j'ai de fortes expériences en NLP (et LLM) et Computer Vision
+- :computer: &nbsp;J'ai été Ingénieur en R&D en Computer Vision/NLP et j'ai aussi le background de développeur Full Stack
 - :speech_balloon: &nbsp;Je suis joignable facilement sur **[LinkedIn](https://www.linkedin.com/in/jean-marc-d-b83990105/)**
 
 <br>
 
 ## Data Science
 
-Vous trouverez mes réalisations en Data Science que j'ai ajouté sur Github [ici](https://github.com/jdjebi/Datascience). Je travaille encore bien documenter mes Readme !
+Vous trouverez quelques une des mes réalisations publics en IA [ici](https://github.com/jdjebi/Datascience). Je travaille encore bien documenter mes Readme !
+
+Ma dernière réalisation pour le compte de l'entreprise [Holis Consulting](https://holis-consulting.com/fr/accueil/) ce trouve ici : [[1]](https://github.com/jdjebi/HolisTableDetection/tree/main)
 
 Mes dernières réalisation :
 
-- Analyse et classification de critiques de films, NLP
-- Détection de médicaments défectueux, Deep Learning
-- Analyse de la clientèle d'un concessionnaire et recommandation de véhicules, Machine Learning
-- Prédiction de l'affluence sur des lignes de bus, Machine Learning et Deep Learning
+- Développement d'un système applicatif complet de détection et d'extraction de table de documents non structurés, Machine Learning -  NLP [[1]](https://github.com/jdjebi/HolisTableDetection/tree/main)
+- Mise en oeuvre d'un modèle de détection d'intrus sur corpus de documents administratifs, Deep Learning - Computer Vision
+- Analyse et classification de conversions (Discussions de groupe), Machine Learning - NLP
+- Analyse et classification de critiques de films, Machine Learning - NLP
+- Détection de médicaments défectueux, Deep Learning - Computer Vision
+- Analyse de la clientèle d'un concessionnaire et recommandation de véhicules, Machine Learning - Clustering
+- Prédiction de l'affluence sur des lignes de bus, Machine Learning - Deep Learning - Series temporelles
 - Prédiction des salaires à partir des descriptions de postes, NLP
 
 
